@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Green---Justice/static/css/main.a903c373.css",
+    "main.js": "/Green---Justice/static/js/main.cacd8b84.js",
+    "index.html": "/Green---Justice/index.html",
+    "main.a903c373.css.map": "/Green---Justice/static/css/main.a903c373.css.map",
+    "main.cacd8b84.js.map": "/Green---Justice/static/js/main.cacd8b84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a903c373.css",
+    "static/js/main.cacd8b84.js"
+  ]
+}
